@@ -26,7 +26,7 @@ const Header = () => {
             <ul className="header-menu-list">
               <li className="header-menu-item">
                 <NavLink
-                  to="./home"
+                  to="./my-app"
                   className="menu-text"
                   activeClassName="home_selected"
                   activeStyle={{ color: "#e2494b" }}
